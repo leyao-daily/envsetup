@@ -1,0 +1,2 @@
+# Preserve original snapshots verbatim, including original whitespace.
+reference/original/* -whitespace
