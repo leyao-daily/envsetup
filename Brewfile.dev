@@ -1,0 +1,8 @@
+# Optional tools observed on the source Mac. Review before installing.
+brew "awscli"
+brew "docker"
+brew "python@3.14"
+brew "pandoc"
+brew "mtr"
+brew "tcping"
+cask "docker-desktop"

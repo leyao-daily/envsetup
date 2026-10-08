@@ -1,0 +1,3 @@
+copy-on-select = clipboard
+clipboard-paste-protection = false
+shell-integration-features = ssh-env
